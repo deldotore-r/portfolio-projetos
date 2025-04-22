@@ -1,8 +1,6 @@
-# 👋 Seja bem vindo(a)! 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=36BCF7&width=435&lines=Desenvolvedor+Apaixonado;Sempre+Aprendendo" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="assets/Banner.png" alt="Meu banner" width="500">
+</p>
 
 ## 👨‍💻 Quem sou eu
 
