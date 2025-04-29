@@ -14,7 +14,7 @@
 
 
 
-* OpenAI Chat Model
+
 
 
 ## Próximos Passos
