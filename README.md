@@ -4,7 +4,7 @@
 ## Projeto: Automação inteligente para detecção de inconsistências em banco de dados.
 ## Diagrama do workflow n8n para detecção de registros inconsistentes.
 
-  ![Workflow](assets/modelo_funcional_beta_7.png)
+  ![Workflow](assets/n8n.png)
 
   ## Tecnologias Utilizadas
   ![n8n](https://img.shields.io/badge/n8n.........-1abc9c?style=for-the-badge&logo=n8n&logoColor=white) <br>
